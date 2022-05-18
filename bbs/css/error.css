@@ -1,0 +1,25 @@
+.container{
+  width: 350px;
+  height: 150px;
+  border: 8px groove green;
+  margin: 100px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+
+  background: rgba(26, 99, 41, 0.7);
+  border: 8px solid #a60;
+  box-shadow: 2px 2px 4px #999, 2px 2px 2px #020 inset;
+}
+.delete{
+ position: absolute;
+ top: 60px;
+
+}
+.back{
+position: absolute;
+right: 10px;
+bottom: 10px;
+cursor: pointer;
+}

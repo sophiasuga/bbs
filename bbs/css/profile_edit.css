@@ -1,0 +1,51 @@
+
+.main-container{
+  margin: 30px auto;
+  border: 10px groove green  ;
+  border-radius: 10px;
+  width: 500px;
+  height: 500px;
+  position: relative;
+}
+h1{
+  text-align: center;
+}
+.edit-form{
+  display: flex;
+  height: 380px;
+  flex-direction: column;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-between;
+}
+.name{
+flex-grow: 1;
+}
+.pass{
+flex-grow: 1;
+}
+.mail{
+  flex-grow: 1;
+}
+.image{
+  display: flex;
+  align-items: center;
+  flex-grow: 3;
+}
+.back{
+  position: absolute;
+  bottom: 5px;
+  right:5px;
+}
+a{
+  text-decoration: none;
+  color: black;
+  width: 70px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  border-radius: 5px;
+}
+a:hover{
+  background-color: rgba(117, 118, 113, 0.244);
+}

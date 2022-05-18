@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\webalizer"
+		},
+		{
+			"path": "..\\..\\img"
+		},
+		{
+			"path": "..\\..\\xampp"
+		},
+		{
+			"path": "..\\..\\dashboard"
+		},
+		{
+			"path": "..\\..\\example-app"
+		}
+	]
+}
